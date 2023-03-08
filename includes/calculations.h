@@ -1,1 +1,1 @@
-int add(int x, int y);
+int addition(int x, int y);
